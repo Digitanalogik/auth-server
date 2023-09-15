@@ -1,4 +1,4 @@
-package fi.tatu.authserver.config;
+package fi.soininen.tatu.authserver.config;
 
 import com.nimbusds.jose.jwk.JWKSet;
 import com.nimbusds.jose.jwk.RSAKey;
